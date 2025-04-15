@@ -44,6 +44,15 @@ Unlike large-scale platforms, Maid Ahead starts at the **local level**, catering
 
 ---
 
+💡 Future Improvements
+
+  Expand service coverage to more regions.
+  Add real-time tracking and availability.
+  Integrate payment gateway.
+  Mobile App version using React Native or Flutter.
+
+---
+
 ## 📦 How to Run the Project Locally
 
 1. **Clone the repository**
@@ -57,17 +66,3 @@ Unlike large-scale platforms, Maid Ahead starts at the **local level**, catering
   http://localhost/maid-ahead
 
 ---
-
-💡 Future Improvements
-
-  Expand service coverage to more regions.
-  Add real-time tracking and availability.
-  Integrate payment gateway.
-  Mobile App version using React Native or Flutter.
-
----
-
-🤝 Team & Credits
-
-  Let me know if you want this customized with your team name, GitHub repo link, or hackathon name filled in!
-
